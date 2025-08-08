@@ -1,0 +1,7 @@
+body{
+    background-image: url("tamil.jpg");
+    background-position:center;
+    background-repeat:repeat;
+    background-size:cover;
+    background-attachment:scroll;
+}
